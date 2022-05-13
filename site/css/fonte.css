@@ -1,13 +1,15 @@
 p,h1{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
-#fonte1{font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
-#h1{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell,
+.fonte1{font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
+#h1-fonte{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell,
 'Open Sans', 'Helvetica Neue', sans-serif}
 /**Fontes usadas no index e nos outros textos**/
-#h1{font-size: 50px;}
-#h2{font-size: 44px;}
-#h3{font-size: 38px;}
+h1{font-size: 50px;}
+h2{font-size: 44px;}
+h3{font-size: 38px;}
+h4{font-size: 32px;}
+p{font-size: 26px;}
+.fonte-h3{font-size: 55px;}
+/**usadas principalmente no index**/
 #h3{font-size:50px;}
-#h4{font-size: 32px;}
-.fontep{font-size: 17.5px;}
-#lista-us{font-size:18px;}
+ul{font-size:26px;}
 /**Tamanho das letras no index e nos outros complementos**/
