@@ -1,9 +1,17 @@
-body{margin-top: 2.5%;
+/** Ajustando as margens **/
+
+    body{margin-top: 2.5%;
     margin-bottom:5%;
     margin-left:5%;
     margin-right:5%;}
-/** Ajustando as margens **/
+/**Estilo de texto**/
+
 p{text-align: justify;}
+
 /**Alinhamento central**/
+
 .central{text-align: center}
-/**Trabalho 1-essa tag centraliza tudo ao centro**/
+/**Decoração e outros itens**/ 
+ul{padding: 20px}
+
+ul li {margin: 5px;}
